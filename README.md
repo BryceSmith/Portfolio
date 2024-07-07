@@ -8,6 +8,8 @@ Below is a breakdown of projects included in this repository:
 
 - **Vineyard Trading Company:** A project to create a SQL Server database for a winery.
 
+- **Regression Analysis:** Predicting house price based on housing characteristics in R.
+ 
 - **Image Classification via Neural Network (python):** Using a Neural Network to classify images from the CIFAR-10 dataset.
 
 - **Loan Default Prediction (Python)**
